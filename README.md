@@ -1,0 +1,2 @@
+# OScurl
+for dumpsterOS
